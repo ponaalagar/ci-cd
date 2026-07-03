@@ -258,7 +258,7 @@ function App() {
                 </button>
               ) : (
                 <button className="btn btn-secondary" onClick={resetSimulation} disabled={isSimulating}>
-                  Reset Runner
+                  Reset Runner OKP
                 </button>
               )}
             </div>
