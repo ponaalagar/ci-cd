@@ -1,3 +1,4 @@
+// Interactive CI/CD Pipeline Simulator & Tutorial Dashboard
 import { useState, useEffect, useRef } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from './assets/vite.svg';
